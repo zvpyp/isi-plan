@@ -2,8 +2,6 @@
 
 El plan de estudios _interactivo_ de **Ingeniería en Sistemas de Información** de la [UTN FRCU](https://www.frcu.utn.edu.ar/).
 
-[isi.ar](https://isi.ar)
-
 ## 📜 Descripción
 
 <img align="right" width="200" src="demo.gif" style="margin-left: 20px; margin-bottom: 20px;">
