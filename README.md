@@ -100,4 +100,4 @@ Este proyecto ya no está en desarrollo. Sin embargo, si encontrás algún probl
 
 ## 📝 Licencia
 
-[MIT](https://github.com/valentincostam/isi/blob/main/LICENSE) © [Valentín Costa](https://valentincosta.com)
+MIT. Creado originalmente por [Valentín Costa](https://valentincosta.com)
