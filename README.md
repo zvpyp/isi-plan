@@ -92,10 +92,6 @@ Tener instalado `node`, `npm`, `npx`, y `gulp-cli` (globalmente).
 
 Ya podés modificar cualquiera de los archivos en el directorio `src` y los archivos procesados estarán en sus respectivas carpetas del directorio `docs`.
 
-## 🤝 Contribuir
-
-Este proyecto ya no está en desarrollo. Sin embargo, si encontrás algún problema o tenés alguna sugerencia, por favor, no dudes en [escribirme por email](mailto:valentincostam@gmail.com).
-
 ## 📝 Licencia
 
 MIT. Creado originalmente por [Valentín Costa](https://valentincosta.com)
